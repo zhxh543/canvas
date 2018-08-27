@@ -1,4 +1,4 @@
-# canvas-excel
+# canvas
 
 > canvas excel
 
